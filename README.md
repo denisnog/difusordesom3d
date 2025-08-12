@@ -1,3 +1,5 @@
+CONSTRUINDO UM DIFUSOR DE SOM 3D COM ARTE E ESTATÍSTICA
+
 MODELANDO A DISPERSÃO SONORA
 
 Com a moldura em mãos e a ideia clara, o próximo passo foi a materialização do conceito. 
